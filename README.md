@@ -22,5 +22,13 @@ A clean, modular Python automation script to declutter messy directories by sort
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/ravindrasingh1989/python-file-organizer.git] (https://github.com/ravindrasingh1989/python-file-organizer.git)
+  git clone https://github.com/ravindrasingh1989/python-file-organizer.git
    cd python-file-organizer
+   ```
+
+2. Run the script:
+   ```bash
+   python organizer.py
+   ```
+
+3. Enter the target folder path (or press Enter to organize the current folder).
